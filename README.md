@@ -1,16 +1,33 @@
-## Hi there 👋
+# こんにちは、DXPC98FDDです 👋
 
-<!--
-**DXPC98FDD/DXPC98FDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHubのプロフィールへようこそ！私はさまざまなプロジェクトに取り組み、新しい技術を学ぶことが大好きな開発者です。以下は私についての情報です：
 
-Here are some ideas to get you started:
+## 🚀 私について
+- 🔭 現在のプロジェクト: 
+- 🌱 学習中の技術: 
+- 👯 コラボレーション希望: 
+- 💬 質問してほしいこと: 
+- 📫 連絡方法: 
+- ⚡ 面白い事実: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 使用言語とツール
+- 言語: 
+- フレームワーク: 
+- ツール: 
+
+## 📈 GitHub統計
+![DXPC98FDD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DXPC98FDD&show_icons=true&theme=radical)
+
+## 🏆 GitHubトロフィー
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DXPC98FDD&theme=radical)
+
+## 📝 最新のブログ投稿
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 📫 コンタクト
+- [LinkedIn]
+- [Twitter]
+- [個人ウェブサイト]
+
+プロフィールをご覧いただきありがとうございます！プロジェクトでのコラボレーションや技術に関するお話をしたい場合は、ぜひご連絡ください。
