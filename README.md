@@ -15,11 +15,7 @@ GitHubのプロフィールへようこそ！
 
 ## 🏆 GitHubトロフィー
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DXPC98FDD&theme=radical)
-
-## 📝 最新のブログ投稿
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+　
 ## 📫 コンタクト
 - [https://x.com/DXPC98FDD]
 - [https://dxpc98fdd.hatenadiary.com/]
