@@ -1,23 +1,49 @@
-# こんにちは、DXPC98FDDです 👋
+# 👋 こんにちは、DXPC98FDDです！
 
-GitHubのプロフィールへようこそ！
-私はAI技術（特に大規模言語モデル）やレトロPCの歴史・技術に興味を持ち、日々学び続けている学生です。
+> 生成AI学習中 × レトロPC愛好家 | 過去の技術と未来の可能性を繋ぐ探求者
 
-## 🚀 私について
-興味分野: 大規模言語モデル（LLM）、レトロPCのアーキテクチャとソフトウェア開発
-　　目標: AI技術を活用した新しい可能性の探求と、レトロPC文化の保存・発展
-- 🔭 現在のプロジェクト: LLM関連、レトロPC関連 
-- 🌱 学習中の技術: Hugging Face
-- ⚡ 面白い事実: 初めて触ったコンピュータはPC-9800シリーズです
+## 🧠 探求している分野
 
-## 📈 GitHub統計
+```
+🤖 大規模言語モデル(LLM) | 🖥️ PC-9800シリーズ | 💾 レトロコンピューティング
+```
+
+## 🔍 プロフィール
+
+私は**AI技術**（特に大規模言語モデル）と**レトロPC**の歴史・技術に情熱を注ぐ学生です。古いテクノロジーの魅力と最新のAI革命を融合させる可能性を追求しています。
+
+## 🚀 現在の活動
+
+- 🔭 **取り組み中**: LLMの実装と応用研究、PC-9800向けレトロソフトウェアの復刻プロジェクト
+- 🌱 **学習中**: Hugging Face、Transformersアーキテクチャ、FDイメージ保存技術
+- 🔧 **開発環境**: Python、PyTorch、レトロPC開発ツール
+- 📚 **研究テーマ**: AIとレトロコンピューティングの融合領域
+
+## 💡 知っていましたか？
+
+- 初めて触れたコンピュータはPC-9800シリーズ
+- 5.25インチフロッピーディスクを実際に使用した最後の世代の一人
+- お気に入りのキーボードはIBM Model M
+
+## 📊 GitHub統計
+
 ![DXPC98FDD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DXPC98FDD&show_icons=true&theme=radical)
 
 ## 🏆 GitHubトロフィー
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DXPC98FDD&theme=radical)
-　
-## 📫 コンタクト
-- [https://x.com/DXPC98FDD]
-- [https://dxpc98fdd.hatenadiary.com/]
 
-このプロフィールをご覧いただきありがとうございます！
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DXPC98FDD&theme=radical&row=1)
+
+## 🔗 プロジェクトハイライト
+
+- **LLM-RetroConnect**: 大規模言語モデルをレトロPCのインターフェースに接続するブリッジ
+- **PC98-Emulator-Enhancement**: 現代のハードウェアでのPC-9800エミュレーション改善
+- **FDD-Preservation-Tools**: フロッピーディスクデータの長期保存技術研究
+
+## 📫 コンタクト
+
+[![Twitter](https://img.shields.io/badge/X-%40DXPC98FDD-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DXPC98FDD)
+[![Blog](https://img.shields.io/badge/Blog-はてなブログ-00A4DE?style=for-the-badge&logo=hatena-bookmark&logoColor=white)](https://dxpc98fdd.hatenadiary.com/)
+
+---
+
+> *「古いテクノロジーには新しい価値がある。AIとレトロPCの融合で、新たな可能性を切り開く」*
